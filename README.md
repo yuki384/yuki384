@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  - [YassLab Inc.](https://yasslab.jp/) Web Designer
  - N Code Labo Teacher
- - [メクルン](http://mekurun.com/) Development, Design, Content Editor
+ - [メクルン](https://mekurun.com/) Development, Design, Content Editor
  - N High School Student
  
 お仕事の相談は[Twitter](https://mobile.twitter.com/YukiMihashi)のDMまで
