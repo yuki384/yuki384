@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  - [YassLab Inc.](https://yasslab.jp/) Web Designer
- - N Code Labo Teacher
  - [メクルン](https://mekurun.com/) Development, Design, Content Editor
  - N High School Student
  
