@@ -18,4 +18,4 @@ Here are some ideas to get you started:
  - [メクルン](https://mekurun.com/) Development, Design, Content Editor
  - N High School Student
  
-お仕事の相談は[Twitter](https://mobile.twitter.com/YukiMihashi)のDMまで
+お仕事の相談は[Twitter](https://twitter.com/YukiMihashi)のDMまで
