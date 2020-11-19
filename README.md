@@ -1,4 +1,4 @@
-### Hi!
+## Hi!
 
 <!--
 **yuki384/yuki384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  - [YassLab Inc.](https://yasslab.jp/) Web Designer
- - [メクルン](https://mekurun.com/) Development, Design, Content Editor
+ - [Mekurun](https://mekurun.com/) Development, Design, Content Editor
  - N High School Student
  
-お仕事の相談は[Twitter](https://mobile.twitter.com/YukiMihashi)のDMまで
+## How to reach me:
+[Twitter](https://twitter.com/YukiMihashi)  
+お仕事の相談は[Twitter](https://twitter.com/YukiMihashi)のDMまで
+
+
+## I'm learning about:
+- Color scheme
+- UI Design
