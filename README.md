@@ -1,28 +1,12 @@
-## Hi!
+## About me
 
-<!--
-**yuki384/yuki384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Designer & Front-end engineer
  - [YassLab Inc.](https://yasslab.jp/) Web Designer
- - [Mekurun](https://mekurun.com/) Development, Design, Content Editor
  - N High School Student
+ - She/her/hers
+ - Twitter: [＠YukiMihashi](https://twitter.com/YukiMihashi)  
  
-## How to reach me:
-[Twitter](https://twitter.com/YukiMihashi)  
-お仕事の相談は[Twitter](https://twitter.com/YukiMihashi)のDMまで
-
-
-## I'm learning about:
-- Color scheme
-- UI Design
+## Interest / Skill
+🥰: Drawing (Pen、Copic marker、Figma、Illustrator、Fresco) / Web design / CSS / Color science  
+🛠: Scratch, Unity (C#), Ruby on Rails, Nuxt.js, HTML/CSS, Sass, Figma, Adobe Illustrator  
+👀: Logo design / UI/UX / Cognitive psychology / Processing / 3DCG / Color psychology / Product design
