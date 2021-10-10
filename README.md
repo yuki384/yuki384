@@ -16,7 +16,6 @@
 ## 自己紹介
 こんにちは！ デザイナー＆エンジニアのYukiMihashiです。
 デザインはWebやUIを中心に、ロゴやイラストまで幅広く手掛けており、エンジニアリングはフロントエンドを主に手掛けています。
-2003年生まれ。東京都在住。
 
 Twitterはこちら→ [＠YukiMihashi](https://twitter.com/YukiMihashi)  
 
