@@ -1,7 +1,6 @@
 ## About me
 
  - Designer & Front-end engineer
- - N High School Student (3rd)
  - she/her/hers
  - Twitter: [＠YukiMihashi](https://twitter.com/YukiMihashi)  
 
