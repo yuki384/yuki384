@@ -8,6 +8,12 @@
 🛠 Tool/Language: Scratch / Unity (C#) / Ruby on Rails / Python / Next.js / Nuxt.js / Flutter / HTML/CSS / Sass(Scss) / Figma / Adobe Illustrator  
 👀 Interest: Interaction design / UI/UX / Product design
 
+## Projects
+
+[ColorMagic - AIでカラーパレット生成](https://colormagic.app/)  
+[hidane - チームのためのブレストサービス](https://hidane.app/)  
+[AIひらめきメーカー](https://hirameki.app/)
+
 --- 
 
 (日本語)
